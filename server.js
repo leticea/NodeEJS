@@ -8,27 +8,27 @@ app.get("/", function (req, res) {
     const items = [
         { 
             title: "D",
-            message: "Desenvolver aplicações de forma fácil"
+            message: "esenvolver aplicações de forma fácil"
         },
         { 
             title: "E",
-            message: "EJS usa JavaScript para renderizar HTML"
+            message: "JS usa JavaScript para renderizar HTML"
         },
         { 
             title: "M",
-            message: "Muito fácil de usar"
+            message: "uito fácil de usar"
         },
         { 
             title: "A",
-            message: "Amorzinho"
+            message: "morzinho"
         },
         { 
             title: "I",
-            message: "Install ejs"
+            message: "nstall ejs"
         },
         { 
             title: "S",
-            message: "Sintaxe simples"
+            message: "intaxe simples"
         }
     ];
 
