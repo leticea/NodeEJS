@@ -32,9 +32,12 @@ app.get("/", function (req, res) {
         }
     ];
 
+    const subtitle = "Uma linguagem de modelagem para criação de página HTML utilizando JS"
+    
     res.render("pages/index", {
 
         qualitys: items,
+        subtitle: subtitle,
     });
 })
 
