@@ -17,7 +17,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [NPM](https://www.npmjs.com/)
+- [NPM](https://www.npmjs.com/) - 8.19.2
 - [EJS](https://ejs.co/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) 
@@ -31,9 +31,8 @@ Aula do canal [Rocketseat - discover](https://www.rocketseat.com.br/)
 
 ## 🚀 Como Rodar
 
-- Clone o projeto.
-- Abra o seu editor de código e entre na pasta.
-- Use o terminal e execute npm start (se ele já estiver instalado).
+- Clone o projeto;
+- Entre na pasta e rode npm start;
 
 ## 🤔 Como contribuir
 
